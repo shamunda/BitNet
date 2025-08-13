@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9X9hfj7d5wLUr9d/y7zLlH/9yBgTPFaq8rZJi0u+KuxBLqc44FjE0Hi6Fh8ghchevXrP9Q4Xv9pCiANxTFZArg==",
+  "success": true,
+  "projectFilePath": "/app/dotnet/BitNet.Run/BitNet.Run.csproj",
+  "expectedPackageFiles": [
+    "/home/jules/.nuget/packages/system.commandline/2.0.0-beta7.25380.108/system.commandline.2.0.0-beta7.25380.108.nupkg.sha512"
+  ],
+  "logs": []
+}

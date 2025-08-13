@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitNet.Core", "BitNet.Core\BitNet.Core.csproj", "{E92937EA-D868-41CE-96FC-3D98CCB5D527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitNet.Run", "BitNet.Run\BitNet.Run.csproj", "{40127890-FA36-4021-A32F-2F90C79BBABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitNet.Core.Tests", "BitNet.Core.Tests\BitNet.Core.Tests.csproj", "{B16A92DC-39FA-4EF8-869F-646C66F55549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92937EA-D868-41CE-96FC-3D98CCB5D527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92937EA-D868-41CE-96FC-3D98CCB5D527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92937EA-D868-41CE-96FC-3D98CCB5D527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92937EA-D868-41CE-96FC-3D98CCB5D527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40127890-FA36-4021-A32F-2F90C79BBABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40127890-FA36-4021-A32F-2F90C79BBABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40127890-FA36-4021-A32F-2F90C79BBABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40127890-FA36-4021-A32F-2F90C79BBABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16A92DC-39FA-4EF8-869F-646C66F55549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16A92DC-39FA-4EF8-869F-646C66F55549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16A92DC-39FA-4EF8-869F-646C66F55549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16A92DC-39FA-4EF8-869F-646C66F55549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
